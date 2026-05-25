@@ -20,6 +20,8 @@
     "alpr",
     "license-plate-recognition",
     "korean-license-plate",
+    "korean-ocr",
+    "korean-plate-ocr",
     "computer-vision",
     "image-processing",
     "javascript",

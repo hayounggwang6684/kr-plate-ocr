@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: kr-plate-ocr
+message: "If you use this repository or its OCR logic, please cite it and link back to the GitHub repository."
+type: software
+authors:
+  - name: kr-plate-ocr contributors
+repository-code: "https://github.com/hayounggwang6684/kr-plate-ocr"
+abstract: "AI-friendly Korean license plate OCR post-processing, validation, scoring, and browser preprocessing utilities."
+keywords:
+  - OCR
+  - ALPR
+  - Korean license plate
+  - license plate recognition
+  - computer vision
+  - AI agents
+license: MIT
+version: 0.1.0
+date-released: 2026-05-25

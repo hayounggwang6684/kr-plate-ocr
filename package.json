@@ -1,0 +1,31 @@
+{
+  "name": "kr-plate-ocr",
+  "version": "0.1.0",
+  "description": "AI-friendly Korean license plate OCR post-processing and browser preprocessing utilities.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "ocr",
+    "alpr",
+    "license-plate-recognition",
+    "korean-license-plate",
+    "computer-vision",
+    "ai-agents",
+    "llm-friendly"
+  ],
+  "exports": {
+    ".": "./src/index.js",
+    "./canvas": "./src/canvas.js",
+    "./tesseract": "./src/tesseract.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "files": [
+    "src",
+    "docs",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ]
+}

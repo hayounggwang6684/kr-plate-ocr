@@ -140,6 +140,22 @@ Korean license plate OCR logic adapted from [kr-plate-ocr](https://github.com/ha
 한국형 번호판 OCR 로직은 [kr-plate-ocr](https://github.com/hayounggwang6684/kr-plate-ocr)를 참고했습니다.
 ```
 
+## Enterprise Support
+
+Commercial use is allowed under the MIT license.
+
+For enterprise support, private deployment, OCR accuracy tuning, custom integration, or Korean parking/vehicle workflow consulting, please contact through GitHub Issues:
+
+[https://github.com/hayounggwang6684/kr-plate-ocr/issues](https://github.com/hayounggwang6684/kr-plate-ocr/issues)
+
+## 기업 도입 문의
+
+MIT 라이선스에 따라 상업적 사용은 가능합니다.
+
+기업용 도입, 비공개 배포, OCR 인식률 튜닝, 커스텀 연동, 주차장/차량 관리 업무 적용 상담이 필요하면 GitHub Issues로 문의해 주세요.
+
+[https://github.com/hayounggwang6684/kr-plate-ocr/issues](https://github.com/hayounggwang6684/kr-plate-ocr/issues)
+
 ## Privacy
 
 Do not commit real vehicle plate images unless you have permission. Use synthetic images, masked images, or text-only tests.

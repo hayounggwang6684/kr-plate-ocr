@@ -4,12 +4,26 @@
   "description": "AI-friendly Korean license plate OCR post-processing and browser preprocessing utilities.",
   "type": "module",
   "license": "MIT",
+  "homepage": "https://github.com/hayounggwang6684/kr-plate-ocr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayounggwang6684/kr-plate-ocr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hayounggwang6684/kr-plate-ocr/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "ocr",
     "alpr",
     "license-plate-recognition",
     "korean-license-plate",
     "computer-vision",
+    "image-processing",
+    "javascript",
+    "tesseract-js",
     "ai-agents",
     "llm-friendly"
   ],
@@ -25,6 +39,9 @@
     "src",
     "docs",
     "examples",
+    "AI_INDEX.md",
+    "ATTRIBUTION.md",
+    "CITATION.cff",
     "README.md",
     "LICENSE"
   ]

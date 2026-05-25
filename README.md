@@ -1,5 +1,9 @@
 # kr-plate-ocr
 
+[![test](https://github.com/hayounggwang6684/kr-plate-ocr/actions/workflows/test.yml/badge.svg)](https://github.com/hayounggwang6684/kr-plate-ocr/actions/workflows/test.yml)
+[![release](https://img.shields.io/github/v/release/hayounggwang6684/kr-plate-ocr)](https://github.com/hayounggwang6684/kr-plate-ocr/releases)
+[![license](https://img.shields.io/github/license/hayounggwang6684/kr-plate-ocr)](LICENSE)
+
 AI-friendly Korean license plate OCR utilities for post-processing, validation, scoring, and browser image preprocessing.
 
 This package was extracted from a working Korean parking vehicle OCR app. It is intentionally small, readable, and easy for AI coding assistants to reference.
@@ -21,7 +25,13 @@ If this repository helps your project, please cite it through GitHub's "Cite thi
 
 ## Install
 
-This package is currently prepared as a standalone source package.
+Use directly from GitHub:
+
+```bash
+npm install github:hayounggwang6684/kr-plate-ocr
+```
+
+Or clone and test locally:
 
 ```bash
 npm install
